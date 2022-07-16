@@ -13,7 +13,9 @@ to figure out where to go, it collects user inputs, their google api key, starti
 
 run the python script app.py via the command in a terminal which recognizesf python with 
 
-'''console 
+```console
 $ python app.py
 
-'''
+```
+
+
